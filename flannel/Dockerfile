@@ -1,4 +1,4 @@
-FROM quay.io/coreos/flannel:v0.9.1-amd64
+FROM gcr.io/pixie-oss/pixie-prod/operator/bundle_index:0.0.1
 MAINTAINER Mosaicwang <mosaicwang@gmail.com>
 
 
