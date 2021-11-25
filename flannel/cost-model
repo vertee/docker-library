@@ -1,2 +1,2 @@
-FROM gcr.io/kubecost1/server:prod-1.57.2
+FROM gcr.io/kubecost1/cost-model:prod-1.57.2
 MAINTAINER Mosaicwang <mosaicwang@gmail.com>
