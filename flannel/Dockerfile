@@ -1,2 +1,2 @@
-FROM gcr.io/pixie-oss/pixie-prod/operator/bundle_index:0.0.1
+FROM gcr.io/kubecost1/frontend:prod-1.57.2
 MAINTAINER Mosaicwang <mosaicwang@gmail.com>
