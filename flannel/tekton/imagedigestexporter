@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.33.3@sha256:f784f4b56652e3d576b25890f0fd998c79a65b4b755bad409311b7303c39d538
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>

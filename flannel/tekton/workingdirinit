@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.33.3@sha256:d2a055e64fb47ce125ee94e46b772e64ccec3c0e5d644ccf3e9db4266d6992d8
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>

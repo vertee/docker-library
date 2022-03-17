@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.33.3@sha256:2265b21b3c68b944fa14ca069f2ec8f4ebb8f7c47ea089725fbd1bb550610388
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>

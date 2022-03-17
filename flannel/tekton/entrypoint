@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.33.3@sha256:924f937a3f26b17c959017a2417940b58f171e3580b434af344d65ce43333e1b
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>

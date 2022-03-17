@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.33.3@sha256:957d3c2da071258e2b54bd4002b4a92d8f6efdcd9045af7fcc2e68e4314aa3c3
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>
