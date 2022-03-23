@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.33.3@sha256:a81b311ad4ebb5be80c1d7e819f1c4484f05b7ff72556451b4de67c074da0c5c
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.34.1@sha256:8bf237e7b8c983e4159686f0cc021c9189bab4ea99f91cb20ec19cfb4b4a916d
 MAINTAINER Mosaicwang <mosaicwang@gmail.com>
