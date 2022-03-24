@@ -1,0 +1,2 @@
+FROM ghcr.io/banzaicloud/kafka-operator:v0.20.2
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>

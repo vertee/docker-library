@@ -1,2 +1,0 @@
-FROM gcr.io/kubecost1/checks:prod-1.57.2
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>

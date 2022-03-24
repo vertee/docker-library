@@ -1,2 +1,0 @@
-FROM kiwigrid/k8s-sidecar:0.0.3
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>

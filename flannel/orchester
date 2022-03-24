@@ -1,2 +1,0 @@
-FROM quay.io/presslabs/mysql-operator-orchestrator:0.4.0
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
