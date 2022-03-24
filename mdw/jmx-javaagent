@@ -1,0 +1,2 @@
+FROM ghcr.io/banzaicloud/jmx-javaagent:0.16.1
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>
