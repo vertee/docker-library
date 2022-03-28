@@ -1,0 +1,2 @@
+FROM ghcr.io/goharbor/harbor-operator:dev_master
+MAINTAINER Mosaicwang <mosaicwang@gmail.com>
